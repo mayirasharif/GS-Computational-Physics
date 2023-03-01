@@ -1,6 +1,6 @@
 # Governor's School of Computational-Physics
 
-This is my portfolio of all of the scientific fortran codes I created during my time at the Governor's School of Computational Physics at Austin Peay.
+This is my portfolio of all of the scientific fortran codes I created during my time at the Governor's School of Computational Physics at Austin Peay State University.
 Keep in mind that I used the linux ubuntu OS for these codes because it is more efficient, as fortran 95 needs to be compiled each and every time a code is run.
 <h1><b>How to run the code</b><h1>
 <h2>Linux</h2>
